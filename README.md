@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
 <h3 align="center">An experienced Flutter developer who uses a combination of Repository pattern, Unit testing, MVVM, DRY principle and SOLID to create highly scalable applications with maintainable code.</h3>
 
-- 🔭 I’m currently working on **Asena Instagram Analytics App**
+- 🔭 I’m currently working on **A Flutter app with special camera feature**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
